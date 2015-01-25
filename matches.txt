@@ -1,0 +1,180 @@
+Inter Milan,Real Madrid,2,1
+Real Madrid,Juventus,3,1
+Juventus,Barcelona,1,0
+Barcelona,Chelsea,0,5
+Chelsea,Manchester Utd,5,2
+Manchester Utd,Bayern Munich,2,3
+Bayern Munich,PSG,3,0
+PSG,Liverpool,0,0
+Liverpool,Porto,0,2
+Porto,Inter Milan,2,3
+Inter Milan,Juventus,3,1
+Real Madrid,Barcelona,1,2
+Juventus,Chelsea,2,3
+Barcelona,Manchester Utd,3,1
+Chelsea,Bayern Munich,2,3
+Manchester Utd,PSG,3,0
+Bayern Munich,Liverpool,0,0
+PSG,Porto,0,2
+Liverpool,Inter Milan,2,3
+Porto,Real Madrid,3,1
+Inter Milan,Barcelona,1,2
+Real Madrid,Chelsea,2,3
+Juventus,Manchester Utd,3,1
+Barcelona,Bayern Munich,2,3
+Chelsea,PSG,3,0
+Manchester Utd,Liverpool,2,3
+Bayern Munich,Porto,3,1
+PSG,Inter Milan,1,2
+Liverpool,Real Madrid,2,3
+Porto,Juventus,3,1
+Inter Milan,Chelsea,2,3
+Real Madrid,Manchester Utd,3,0
+Juventus,Bayern Munich,1,2
+Barcelona,PSG,1,0
+Chelsea,Liverpool,2,1
+Manchester Utd,Porto,3,2
+Bayern Munich,Inter Milan,4,3
+PSG,Real Madrid,2,1
+Liverpool,Juventus,3,3
+Porto,Barcelona,2,2
+Inter Milan,Manchester Utd,1,0
+Real Madrid,Bayern Munich,0,2
+Juventus,PSG,2,0
+Barcelona,Liverpool,1,0
+Chelsea,Porto,2,3
+Manchester Utd,Inter Milan,3,1
+Bayern Munich,Real Madrid,2,3
+PSG,Juventus,3,0
+Liverpool,Barcelona,1,2
+Porto,Chelsea,1,0
+Inter Milan,Bayern Munich,2,1
+Real Madrid,PSG,3,2
+Juventus,Liverpool,4,3
+Barcelona,Porto,2,1
+Chelsea,Inter Milan,3,3
+Manchester Utd,Real Madrid,2,2
+Bayern Munich,Juventus,1,0
+PSG,Barcelona,0,2
+Liverpool,Chelsea,2,0
+Porto,Manchester Utd,1,0
+Inter Milan,PSG,2,1
+Real Madrid,Liverpool,3,1
+Juventus,Porto,1,0
+Barcelona,Inter Milan,0,5
+Chelsea,Real Madrid,5,2
+Manchester Utd,Juventus,2,3
+Bayern Munich,Barcelona,3,0
+PSG,Chelsea,0,0
+Liverpool,Manchester Utd,0,2
+Porto,Bayern Munich,2,3
+Inter Milan,Liverpool,3,1
+Real Madrid,Porto,1,2
+Juventus,Inter Milan,2,3
+Barcelona,Real Madrid,3,1
+Chelsea,Juventus,2,3
+Manchester Utd,Barcelona,3,0
+Bayern Munich,Chelsea,0,0
+PSG,Manchester Utd,0,2
+Liverpool,Bayern Munich,2,3
+Porto,PSG,3,1
+Inter Milan,Porto,1,2
+Real Madrid,Inter Milan,2,3
+Juventus,Real Madrid,3,1
+Barcelona,Juventus,2,3
+Chelsea,Barcelona,3,0
+Manchester Utd,Chelsea,2,3
+Bayern Munich,Manchester Utd,3,1
+PSG,Bayern Munich,1,2
+Liverpool,PSG,2,3
+Porto,Liverpool,3,1
+Real Madrid,Inter Milan,2,3
+Juventus,Real Madrid,3,0
+Barcelona,Juventus,1,2
+Chelsea,Barcelona,1,0
+Manchester Utd,Chelsea,2,1
+Bayern Munich,Manchester Utd,3,2
+PSG,Bayern Munich,4,3
+Liverpool,PSG,2,1
+Porto,Liverpool,3,3
+Inter Milan,Porto,2,2
+Juventus,Inter Milan,1,0
+Barcelona,Real Madrid,0,2
+Chelsea,Juventus,2,0
+Manchester Utd,Barcelona,1,0
+Bayern Munich,Chelsea,2,3
+PSG,Manchester Utd,3,1
+Liverpool,Bayern Munich,2,3
+Porto,PSG,3,0
+Inter Milan,Liverpool,1,2
+Real Madrid,Porto,1,0
+Barcelona,Inter Milan,2,1
+Chelsea,Real Madrid,3,2
+Manchester Utd,Juventus,4,3
+Bayern Munich,Barcelona,2,1
+PSG,Chelsea,3,3
+Liverpool,Manchester Utd,2,2
+Porto,Bayern Munich,1,0
+Inter Milan,PSG,0,2
+Real Madrid,Liverpool,2,0
+Juventus,Porto,1,0
+Chelsea,Inter Milan,2,1
+Manchester Utd,Real Madrid,3,1
+Bayern Munich,Juventus,1,0
+PSG,Barcelona,0,5
+Liverpool,Chelsea,5,2
+Porto,Manchester Utd,2,3
+Inter Milan,Bayern Munich,3,0
+Real Madrid,PSG,0,0
+Juventus,Liverpool,0,2
+Barcelona,Porto,2,3
+Manchester Utd,Inter Milan,3,1
+Bayern Munich,Real Madrid,1,2
+PSG,Juventus,2,3
+Liverpool,Barcelona,3,1
+Porto,Chelsea,2,3
+Inter Milan,Manchester Utd,3,0
+Real Madrid,Bayern Munich,0,0
+Juventus,PSG,0,2
+Barcelona,Liverpool,2,3
+Chelsea,Porto,3,1
+Bayern Munich,Inter Milan,1,2
+PSG,Real Madrid,2,3
+Liverpool,Juventus,3,1
+Porto,Barcelona,2,3
+Inter Milan,Chelsea,3,0
+Real Madrid,Manchester Utd,2,3
+Juventus,Bayern Munich,3,1
+Barcelona,PSG,1,2
+Chelsea,Liverpool,2,3
+Manchester Utd,Porto,3,1
+PSG,Inter Milan,2,3
+Liverpool,Real Madrid,3,0
+Porto,Juventus,1,2
+Inter Milan,Barcelona,1,0
+Real Madrid,Chelsea,2,1
+Juventus,Manchester Utd,3,2
+Barcelona,Bayern Munich,4,3
+Chelsea,PSG,2,1
+Manchester Utd,Liverpool,3,3
+Bayern Munich,Porto,2,2
+Liverpool,Inter Milan,1,0
+Porto,Real Madrid,0,2
+Inter Milan,Juventus,2,0
+Real Madrid,Barcelona,1,0
+Juventus,Chelsea,2,3
+Barcelona,Manchester Utd,3,1
+Chelsea,Bayern Munich,2,3
+Manchester Utd,PSG,3,0
+Bayern Munich,Liverpool,1,2
+PSG,Porto,1,0
+Porto,Inter Milan,2,1
+Inter Milan,Real Madrid,3,2
+Real Madrid,Juventus,4,3
+Juventus,Barcelona,2,1
+Barcelona,Chelsea,3,3
+Chelsea,Manchester Utd,2,2
+Manchester Utd,Bayern Munich,1,0
+Bayern Munich,PSG,0,2
+PSG,Liverpool,2,0
+Liverpool,Porto,1,0
